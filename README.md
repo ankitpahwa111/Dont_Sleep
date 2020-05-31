@@ -3,6 +3,13 @@
    ## **PROBLEM STATEMENT**
    In India, there are a lot of accidents taking place every day due to mishaps. The no. of cars and accidents are increased as    the population grows. Most of the accidents take place due to people  feeling sleepy,high speed,drunk and drive.
    So,we are going to implement an accident prevention system which deals with the problem of accidents happening due to people    getting dozed off or feeling sleepy. 
+   ## **Results**
+   ```Alert subject detection :```
+   <img src = "Alert.png">
+   ``` Sleeping Subject Detection```
+   <img src = "Sleeping.png">
+   ``` Yawning Subject Detection```
+   <img src = "Yawning.png">
    
    ## **APPLICATIONS**
 This can be used by riders who tend to drive for a longer period of time that may lead to accidents
